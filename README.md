@@ -1,3 +1,36 @@
+# octoprofile-gh-polyglot-chart
+
+# 🚀 Javascript full-stack 🚀
+
+https://github.com/coding-to-music/octoprofile-gh-polyglot-chart
+
+https://octoprofile-gh-polyglot-chart.vercel.app
+
+by Brittany Chiang https://github.com/bchiang7
+
+https://octoprofile.vercel.app/
+
+https://github.com/bchiang7/octoprofile
+
+## Environment Values
+
+```java
+None
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/octoprofile-gh-polyglot-chart.git
+git push -u origin main
+vercel --prod --confirm
+```
+
 # OctoProfile
 
 A nicer look at your GitHub Profile! With charts!

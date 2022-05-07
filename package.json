@@ -1,16 +1,24 @@
 {
-  "name": "octoprofile",
+  "name": "octoprofile-gh-polyglot-chart",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "main": "index.js",
+  "engines": {
+    "node": "14"
+  },
+  "cacheDirectories": [
+    "node_modules",
+    ".next/cache"
+  ],
   "scripts": {
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "now-build": "next build"
+    "now-build": "next build",
+    "deploy": "git add . && git commit -m Build && git push"
   },
   "husky": {
     "hooks": {
