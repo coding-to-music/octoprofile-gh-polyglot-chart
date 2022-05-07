@@ -4,6 +4,16 @@
 
 https://github.com/coding-to-music/octoprofile-gh-polyglot-chart
 
+Chose a different name:
+
+https://octoprofile-woad.vercel.app
+
+## Build Warning / Error Message
+
+```java
+❗️  Due to `builds` existing in your configuration file, the Build and Development Settings defined in your Project Settings will not apply. Learn More: https://vercel.link/unused-build-settings
+```
+
 https://octoprofile-gh-polyglot-chart.vercel.app
 
 by Brittany Chiang https://github.com/bchiang7
@@ -11,6 +21,12 @@ by Brittany Chiang https://github.com/bchiang7
 https://octoprofile.vercel.app/
 
 https://github.com/bchiang7/octoprofile
+
+## Build Warning / Error Message
+
+```java
+❗️  Due to `builds` existing in your configuration file, the Build and Development Settings defined in your Project Settings will not apply. Learn More: https://vercel.link/unused-build-settings
+```
 
 ## Environment Values
 

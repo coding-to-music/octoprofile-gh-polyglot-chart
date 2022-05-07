@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "alias": "octoprofile",
-  "name": "octoprofile",
+  "alias": "octoprofile-gh-polyglot-chart",
+  "name": "octoprofile-gh-polyglot-chart",
   "builds": [{ "src": "package.json", "use": "@now/next" }]
 }
